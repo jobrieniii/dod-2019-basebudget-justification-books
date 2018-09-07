@@ -1,0 +1,1173 @@
+=====================================================================================
+Removing folder PROCUREMENT and creating new one...
+Removing folder RDTE and creating new one...
+=====================================================================================
+Preparing to download files...
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA1-4
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA1-4_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA1-4...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA1-4_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA1-4/APN_BA1-4_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5420873)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA1-4/APN_BA1-4_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA5
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA5_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA5...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA5_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA5/APN_BA5_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (11540342)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA5/APN_BA5_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA6
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA6_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA6...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA6_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA6/APN_BA6_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3462226)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA6/APN_BA6_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA7
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA7_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA7...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/APN_BA7_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA7/APN_BA7_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (4174072)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AIRCRAFT_BA7/APN_BA7_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_WEAPONS
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/WPN_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_WEAPONS...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/WPN_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_WEAPONS/WPN_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6369971)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_WEAPONS/WPN_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA1
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA1_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA1...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA1_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA1/OPN_BA1_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (10447137)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA1/OPN_BA1_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA2
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA2_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA2...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA2_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA2/OPN_BA2_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (11167149)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA2/OPN_BA2_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA3
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA3_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA3...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA3_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA3/OPN_BA3_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5489677)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA3/OPN_BA3_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA4
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA4_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA4...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA4_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA4/OPN_BA4_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5820307)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA4/OPN_BA4_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA5-8
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA_5-8_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA5-8...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/OPN_BA_5-8_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA5-8/OPN_BA_5-8_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6312365)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_OTHER_BA5-8/OPN_BA_5-8_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_SHIPBUILDINGANDCOVERSION
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/SCN_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_SHIPBUILDINGANDCOVERSION...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/SCN_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_SHIPBUILDINGANDCOVERSION/SCN_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (2699638)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_SHIPBUILDINGANDCOVERSION/SCN_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_MARINECORPS
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/PMC_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_MARINECORPS...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/PMC_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_MARINECORPS/PMC_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5126334)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_MARINECORPS/PMC_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AMMUNITION
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/PANMC_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AMMUNITION...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/PANMC_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AMMUNITION/PANMC_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5026259)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/NAVY_AMMUNITION/PANMC_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL1
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Aircraft%20Procurement%20Vol%20I%20FY19.pdf?ver=2018-02-13-093541-153 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL1...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Aircraft%20Procurement%20Vol%20I%20FY19.pdf?ver=2018-02-13-093541-153 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL1/Air%20Force%20Aircraft%20Procurement%20Vol%20I%20FY19.pdf?ver=2018-02-13-093541-153
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6102108)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL1/Air%20Force%20Aircraft%20Procurement%20Vol%20I%20FY19.pdf?ver=2018-02-13-093541-153...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL2
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Aircraft%20Procurement%20Vol%20II%20Mods%20FY19.pdf?ver=2018-02-13-093538-670 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL2...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Aircraft%20Procurement%20Vol%20II%20Mods%20FY19.pdf?ver=2018-02-13-093538-670 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL2/Air%20Force%20Aircraft%20Procurement%20Vol%20II%20Mods%20FY19.pdf?ver=2018-02-13-093538-670
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (10068441)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AIRCRAFT_VOL2/Air%20Force%20Aircraft%20Procurement%20Vol%20II%20Mods%20FY19.pdf?ver=2018-02-13-093538-670...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AMMUNITION
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Ammunition%20Procurement%20FY19.pdf?ver=2018-02-12-190218-680 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AMMUNITION...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Ammunition%20Procurement%20FY19.pdf?ver=2018-02-12-190218-680 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AMMUNITION/Air%20Force%20Ammunition%20Procurement%20FY19.pdf?ver=2018-02-12-190218-680
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (2994732)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_AMMUNITION/Air%20Force%20Ammunition%20Procurement%20FY19.pdf?ver=2018-02-12-190218-680...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_MISSILE
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Missile%20Procurement%20FY19.pdf?ver=2018-02-12-190220-227 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_MISSILE...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Missile%20Procurement%20FY19.pdf?ver=2018-02-12-190220-227 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_MISSILE/Air%20Force%20Missile%20Procurement%20FY19.pdf?ver=2018-02-12-190220-227
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3730683)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_MISSILE/Air%20Force%20Missile%20Procurement%20FY19.pdf?ver=2018-02-12-190220-227...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_OTHER
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Other%20Procurement%20FY19.pdf?ver=2018-02-12-190222-273 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_OTHER...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Other%20Procurement%20FY19.pdf?ver=2018-02-12-190222-273 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_OTHER/Air%20Force%20Other%20Procurement%20FY19.pdf?ver=2018-02-12-190222-273
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6891558)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_OTHER/Air%20Force%20Other%20Procurement%20FY19.pdf?ver=2018-02-12-190222-273...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_SPACE
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Space%20Procurement%20FY19.pdf?ver=2018-02-12-190223-850 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_SPACE...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/Proc/Air%20Force%20Space%20Procurement%20FY19.pdf?ver=2018-02-12-190223-850 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_SPACE/Air%20Force%20Space%20Procurement%20FY19.pdf?ver=2018-02-12-190223-850
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3180793)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/AIRFORCE_SPACE/Air%20Force%20Space%20Procurement%20FY19.pdf?ver=2018-02-12-190223-850...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AIRCRAFT
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/aircraft.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AIRCRAFT...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/aircraft.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AIRCRAFT/aircraft.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5447684)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AIRCRAFT/aircraft.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_MISSLE
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/missiles.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_MISSLE...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/missiles.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_MISSLE/missiles.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3754586)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_MISSLE/missiles.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_WTCV
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/wtcv.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_WTCV...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/wtcv.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_WTCV/wtcv.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (4236940)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_WTCV/wtcv.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AMMO
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/ammo.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AMMO...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/ammo.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AMMO/ammo.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6568925)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_AMMO/ammo.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_1
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa1.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_1...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa1.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_1/opa1.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6286018)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_1/opa1.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_2
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa2.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_2...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa2.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_2/opa2.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (9815485)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_2/opa2.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_3-4
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa34.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_3-4...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/opa34.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_3-4/opa34.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (9972021)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/ARMY_OTHER_3-4/opa34.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_VOL1_ALL
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/U_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_VOL1_ALL...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/U_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_VOL1_ALL/U_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (44029352)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_VOL1_ALL/U_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense-Wide_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_CBDP
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/01_CBDP_FY19_PB-Procurement_Exhibits.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_CBDP...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/01_CBDP_FY19_PB-Procurement_Exhibits.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_CBDP/01_CBDP_FY19_PB-Procurement_Exhibits.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3996186)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_CBDP/01_CBDP_FY19_PB-Procurement_Exhibits.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Chemical_and_Biological_Defense_Program_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Chemical_and_Biological_Defense_Program_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCAA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/02_DCAA_FY19_PB_Procurement.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCAA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/02_DCAA_FY19_PB_Procurement.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCAA/02_DCAA_FY19_PB_Procurement.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1752686)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCAA/02_DCAA_FY19_PB_Procurement.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Contract_Audit_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Contract_Audit_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCMA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/03_DCMA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCMA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/03_DCMA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCMA/03_DCMA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1488469)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DCMA/03_DCMA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Contract_Management_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DHRA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/04_DHRA_FY2019_Procurement_J-Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DHRA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/04_DHRA_FY2019_Procurement_J-Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DHRA/04_DHRA_FY2019_Procurement_J-Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6407319)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DHRA/04_DHRA_FY2019_Procurement_J-Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_DoD_Human_Resources_Activity_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_DoD_Human_Resources_Activity_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DISA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/05_DISA_PB19_PROC_J-Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DISA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/05_DISA_PB19_PROC_J-Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DISA/05_DISA_PB19_PROC_J-Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (2092198)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DISA/05_DISA_PB19_PROC_J-Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Information_Systems_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Information_Systems_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DLA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/06_DLA_0300_FY19_PB.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DLA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/06_DLA_0300_FY19_PB.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DLA/06_DLA_0300_FY19_PB.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1058603)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DLA/06_DLA_0300_FY19_PB.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Logistics_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Logistics_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DMACT
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/07_DMA_Procurement_J-Book_PB19.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DMACT...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/07_DMA_Procurement_J-Book_PB19.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DMACT/07_DMA_Procurement_J-Book_PB19.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1004740)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DMACT/07_DMA_Procurement_J-Book_PB19.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Media_Activity_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Media_Activity_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DODEA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/11_DODEA_PROCUREMENT_PB19.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DODEA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/11_DODEA_PROCUREMENT_PB19.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DODEA/11_DODEA_PROCUREMENT_PB19.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1233072)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DODEA/11_DODEA_PROCUREMENT_PB19.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Department_of_Defense_Education_Activity_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Department_of_Defense_Education_Activity_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DPAP
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/08_DPA_PB19.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DPAP...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/08_DPA_PB19.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DPAP/08_DPA_PB19.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1483721)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DPAP/08_DPA_PB19.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DSS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/09_DSS_FY19_PB_BA01_0300.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DSS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/09_DSS_FY19_PB_BA01_0300.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DSS/09_DSS_FY19_PB_BA01_0300.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (840131)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DSS/09_DSS_FY19_PB_BA01_0300.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Security_Service_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Security_Service_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DTRA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/10_DTRA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DTRA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/10_DTRA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DTRA/10_DTRA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (11359053)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_DTRA/10_DTRA_PROCUREMENT_MasterJustificationBook_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_JIDF
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/17_JIDF_Procurement_PB19.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_JIDF...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/17_JIDF_Procurement_PB19.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_JIDF/17_JIDF_Procurement_PB19.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (5245347)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_JIDF/17_JIDF_Procurement_PB19.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_OSD
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/12_OSD_FY19_PB_Procurement.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_OSD...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/12_OSD_FY19_PB_Procurement.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_OSD/12_OSD_FY19_PB_Procurement.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1787770)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_OSD/12_OSD_FY19_PB_Procurement.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_TJS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/13_TJS_0300_FY19%20PB.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_TJS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/13_TJS_0300_FY19%20PB.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_TJS/13_TJS_0300_FY19%20PB.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3922197)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_TJS/13_TJS_0300_FY19%20PB.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_The_Joint_Staff_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_The_Joint_Staff_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_SOCOM
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/14_USSOCOM_FY19%20PB_%200300_PROC_J-Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_SOCOM...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/14_USSOCOM_FY19%20PB_%200300_PROC_J-Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_SOCOM/14_USSOCOM_FY19%20PB_%200300_PROC_J-Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (10604557)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_SOCOM/14_USSOCOM_FY19%20PB_%200300_PROC_J-Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_United_States_Special_Operations_Command_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_United_States_Special_Operations_Command_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_WHS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/15_WHS_FY19_PB_Procurement.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_WHS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/15_WHS_FY19_PB_Procurement.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_WHS/15_WHS_FY19_PB_Procurement.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1564899)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_WHS/15_WHS_FY19_PB_Procurement.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Washington_Headquarters_Service_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Washington_Headquarters_Service_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_MDA_VOL2
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/U_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_MDA_VOL2...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/02_Procurement/U_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_MDA_VOL2/U_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (15108450)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/PROCUREMENT/2019/DEFENSE_MDA_VOL2/U_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_PROCUREMENT_JustificationBook_Missile_Defense_Agency_PB_2019.zzz...
+Unzipping U_PROCUREMENT_MasterJustificationBook_Missile_Defense_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA1_3
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA1-3_BOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA1_3...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA1-3_BOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA1_3/RDTEN_BA1-3_BOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (37368935)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA1_3/RDTEN_BA1-3_BOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA4
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA4_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA4...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA4_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA4/RDTEN_BA4_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (57544162)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA4/RDTEN_BA4_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA5
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA5_Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA5...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA5_Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA5/RDTEN_BA5_Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (69097444)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA5/RDTEN_BA5_Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA6
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA6_book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA6...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA6_book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA6/RDTEN_BA6_book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (36898450)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA6/RDTEN_BA6_book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA7
+-------------------------------------------------------------------------------------
+Getting http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA7_book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA7...
+curl --insecure --url http://www.secnav.navy.mil/fmc/fmb/Documents/19pres/RDTEN_BA7_book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA7/RDTEN_BA7_book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (75431178)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/NAVY_BA7/RDTEN_BA7_book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Navy_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Navy_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V1
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20I%20FY19.pdf?ver=2018-02-13-094324-170 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V1...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20I%20FY19.pdf?ver=2018-02-13-094324-170 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V1/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20I%20FY19.pdf?ver=2018-02-13-094324-170
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (7579319)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V1/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20I%20FY19.pdf?ver=2018-02-13-094324-170...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V2
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20II%20FY19%20v2.pdf?ver=2018-02-20-125551-480 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V2...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20II%20FY19%20v2.pdf?ver=2018-02-20-125551-480 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V2/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20II%20FY19%20v2.pdf?ver=2018-02-20-125551-480
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (15232278)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V2/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20II%20FY19%20v2.pdf?ver=2018-02-20-125551-480...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3A
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIa%20FY19.pdf?ver=2018-02-13-094320-560 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3A...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIa%20FY19.pdf?ver=2018-02-13-094320-560 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3A/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIa%20FY19.pdf?ver=2018-02-13-094320-560
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (10473246)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3A/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIa%20FY19.pdf?ver=2018-02-13-094320-560...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3B
+-------------------------------------------------------------------------------------
+Getting https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIb%20FY19.pdf?ver=2018-02-13-094324-170 and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3B...
+curl --insecure --url https://www.saffm.hq.af.mil/Portals/84/documents/FY19/RDT_E/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIb%20FY19.pdf?ver=2018-02-13-094324-170 --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3B/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIb%20FY19.pdf?ver=2018-02-13-094324-170
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (10975146)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/AIRFORCE_V3B/Air%20Force%20Research%20Development%20Test%20and%20Evaluation%20Vol%20IIIb%20FY19.pdf?ver=2018-02-13-094324-170...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Air_Force_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Air_Force_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA1
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol1.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA1...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol1.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA1/vol1.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6373759)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA1/vol1.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA2
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol2.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA2...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol2.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA2/vol2.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (7178920)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA2/vol2.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA3
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol3.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA3...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol3.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA3/vol3.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6780841)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA3/vol3.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA4
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol4.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA4...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol4.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA4/vol4.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (12627991)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA4/vol4.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5A
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol5a.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5A...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol5a.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5A/vol5a.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (15426721)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5A/vol5a.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5B
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol5b.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5B...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol5b.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5B/vol5b.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (14123604)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA5B/vol5b.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA6
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol6.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA6...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol6.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA6/vol6.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6755661)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA6/vol6.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA7
+-------------------------------------------------------------------------------------
+Getting https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol7.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA7...
+curl --insecure --url https://www.asafm.army.mil/documents/BudgetMaterial/FY2019/vol7.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA7/vol7.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (12273932)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/ARMY_BA7/vol7.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Army_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DARPA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/DARPA_RDTE_MasterJustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DARPA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/DARPA_RDTE_MasterJustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DARPA/DARPA_RDTE_MasterJustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3298869)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DARPA/DARPA_RDTE_MasterJustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Advanced_Research_Projects_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/MDA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/U_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/MDA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/U_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/MDA/U_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (32666109)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/MDA/U_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2019_1.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Missile_Defense_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Missile_Defense_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3A
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3A...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3A/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (11873376)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3A/RDTE_DAs_Vol_3A_of_5_OSD_FY19PB-RDTE_Exhibits_BA1-3.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3B
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3B_of_5_OSD_FY19PB-RDTE_Exhibits_BA4-7.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3B...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_3B_of_5_OSD_FY19PB-RDTE_Exhibits_BA4-7.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3B/RDTE_DAs_Vol_3B_of_5_OSD_FY19PB-RDTE_Exhibits_BA4-7.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (20011251)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OSD_3B/RDTE_DAs_Vol_3B_of_5_OSD_FY19PB-RDTE_Exhibits_BA4-7.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Office_of_the_Secretary_Of_Defense_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/CBDP
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_4_of_5_CBDP_FY19PB-RDTE_Exhibits.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/CBDP...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_4_of_5_CBDP_FY19PB-RDTE_Exhibits.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/CBDP/RDTE_DAs_Vol_4_of_5_CBDP_FY19PB-RDTE_Exhibits.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (11010424)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/CBDP/RDTE_DAs_Vol_4_of_5_CBDP_FY19PB-RDTE_Exhibits.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Chemical_and_Biological_Defense_Program_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Chemical_and_Biological_Defense_Program_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/VOL5_ALL
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_5_of_5_RDTE_MasterJustificationBook_Defense-Wide_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/VOL5_ALL...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/RDTE_DAs_Vol_5_of_5_RDTE_MasterJustificationBook_Defense-Wide_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/VOL5_ALL/RDTE_DAs_Vol_5_of_5_RDTE_MasterJustificationBook_Defense-Wide_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (62101078)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/VOL5_ALL/RDTE_DAs_Vol_5_of_5_RDTE_MasterJustificationBook_Defense-Wide_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_MasterJustificationBook_Defense-Wide_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DCMA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/02_DCMA_RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DCMA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/02_DCMA_RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DCMA/02_DCMA_RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (4718919)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DCMA/02_DCMA_RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Contract_Management_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Contract_Management_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DHRA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/03_DHRA_FY2019_RDTE_J-Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DHRA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/03_DHRA_FY2019_RDTE_J-Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DHRA/03_DHRA_FY2019_RDTE_J-Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (8642851)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DHRA/03_DHRA_FY2019_RDTE_J-Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_DoD_Human_Resources_Activity_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_DoD_Human_Resources_Activity_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DISA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/04_DISA_RDTE_PB19.%20Final_12_FEB_18.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DISA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/04_DISA_RDTE_PB19.%20Final_12_FEB_18.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DISA/04_DISA_RDTE_PB19.%20Final_12_FEB_18.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (3145500)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DISA/04_DISA_RDTE_PB19.%20Final_12_FEB_18.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Information_Systems_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Information_Systems_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DLA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/05_DLA_PB19_0400D_JBOOK.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DLA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/05_DLA_PB19_0400D_JBOOK.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DLA/05_DLA_PB19_0400D_JBOOK.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (4156758)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DLA/05_DLA_PB19_0400D_JBOOK.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Logistics_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Logistics_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSCA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/06_DSCA_PB19_RDTE_JustificationBook.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSCA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/06_DSCA_PB19_RDTE_JustificationBook.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSCA/06_DSCA_PB19_RDTE_JustificationBook.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (2126718)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSCA/06_DSCA_PB19_RDTE_JustificationBook.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Security_Cooperation_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Security_Cooperation_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/07_DSS_FY19_PB_BA07_0400_02052018.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/07_DSS_FY19_PB_BA07_0400_02052018.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSS/07_DSS_FY19_PB_BA07_0400_02052018.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1254477)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DSS/07_DSS_FY19_PB_BA07_0400_02052018.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Security_Service_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Security_Service_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTIC
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/08_DTIC_RDTE_MasterJustificationBook_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTIC...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/08_DTIC_RDTE_MasterJustificationBook_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTIC/08_DTIC_RDTE_MasterJustificationBook_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1387731)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTIC/08_DTIC_RDTE_MasterJustificationBook_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Technical_Information_Center_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Technical_Information_Center_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTRA
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/09_DTRA_RDTE_MasterJustificationBook_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTRA...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/09_DTRA_RDTE_MasterJustificationBook_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTRA/09_DTRA_RDTE_MasterJustificationBook_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (12271980)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/DTRA/09_DTRA_RDTE_MasterJustificationBook_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Defense_Threat_Reduction_Agency_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OTANDE
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/13_DOTE_RDTE_MasterJustificationBook_PB_2019.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OTANDE...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/13_DOTE_RDTE_MasterJustificationBook_PB_2019.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OTANDE/13_DOTE_RDTE_MasterJustificationBook_PB_2019.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (2928231)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/OTANDE/13_DOTE_RDTE_MasterJustificationBook_PB_2019.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Operational_Test_and_Evaluation__Defense_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Operational_Test_and_Evaluation__Defense_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/TJS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/10_TJS_0400_FY19_PB.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/TJS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/10_TJS_0400_FY19_PB.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/TJS/10_TJS_0400_FY19_PB.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (6941852)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/TJS/10_TJS_0400_FY19_PB.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_The_Joint_Staff_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_The_Joint_Staff_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/SOCOM
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/11_USSOCOM_FY19_0400_RDTE_J-Book.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/SOCOM...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/11_USSOCOM_FY19_0400_RDTE_J-Book.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/SOCOM/11_USSOCOM_FY19_0400_RDTE_J-Book.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (29136013)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/SOCOM/11_USSOCOM_FY19_0400_RDTE_J-Book.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_United_States_Special_Operations_Command_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_United_States_Special_Operations_Command_PB_2019.zzz...
+=====================================================================================
+Creating folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/WHS
+-------------------------------------------------------------------------------------
+Getting https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/12_WHS_FY19PB_RDTE.pdf and putting into folder /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/WHS...
+curl --insecure --url https://comptroller.defense.gov/Portals/45/Documents/defbudget/fy2019/budget_justification/pdfs/03_RDT_and_E/12_WHS_FY19PB_RDTE.pdf --output /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/WHS/12_WHS_FY19PB_RDTE.pdf
+-------------------------------------------------------------------------------------
+----FILE SUCCESSFULLY DOWNLOADED (1809164)----
+-------------------------------------------------------------------------------------
+Extracting attachments from /Users/jobrieniii/Desktop/dod-2019-basebudget-justification-books/RDTE/2019/WHS/12_WHS_FY19PB_RDTE.pdf...
+qpdf
+rm
+mv
+pdftk
+Unzipping U_RDTE_JustificationBook_Washington_Headquarters_Service_PB_2019.zzz...
+Unzipping U_RDTE_MasterJustificationBook_Washington_Headquarters_Service_PB_2019.zzz...
+=====================================================================================
